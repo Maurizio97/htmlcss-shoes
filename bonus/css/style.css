@@ -62,7 +62,7 @@ nav a {
 }
 
 .item h1 {
-    font-size: 70px;
+    font-size: 45px;
     color: yellow;
     text-align: center;
 }
@@ -76,7 +76,6 @@ nav a {
     position: relative;
 }
 #product-3 .item h1 {
-    font-size: 70px;
     color: green;
     text-align: center;
 }
