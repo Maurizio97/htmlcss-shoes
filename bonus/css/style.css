@@ -4,8 +4,28 @@
     box-sizing: border-box;
 }
 
+/* nav */
+nav {
+    z-index: 999;
+    position: fixed;
+    right: 5vw;
+    top: 5vh;
+}
+
+nav a {
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    background-color: white;
+    margin: 0 15px;
+    padding: 12px 24px;
+    border-radius: 50% 50%;    
+}
+/* /nav */
 /* prodotto 1 */
-.product-1 {
+#product-1 {
     background-color: red;
     height: 100vh;
     position: relative;
@@ -14,7 +34,7 @@
 
 
 /* prodotto 2 */
-.product-2 {
+#product-2 {
     background-color: green;
     height: 100vh;
     position: relative;
@@ -43,15 +63,14 @@
 
 
 /* prodotto 3  */
-.product-3 {
+#product-3 {
     background-color: yellow;
     height: 100vh;
     position: relative;
 }
-.product-3 .item h1 {
+#product-3 .item h1 {
     font-size: 70px;
     color: green;
     text-align: center;
 }
 /* prodotto 3  */
-
