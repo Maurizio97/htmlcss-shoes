@@ -10,6 +10,8 @@
     height: 100vh;
     position: relative;
 }
+/* /prodotto 1 */
+
 
 /* prodotto 2 */
 .product-2 {
@@ -17,6 +19,8 @@
     height: 100vh;
     position: relative;
 }
+/* /prodotto 2 */
+
 
 /* generale prodotto 1-2-3 */
 .item {
@@ -27,8 +31,7 @@
 }
 
 .item img {
-    width: 100%;
-    
+    width: 100%;  
 }
 
 .item h1 {
@@ -50,4 +53,5 @@
     color: green;
     text-align: center;
 }
+/* prodotto 3  */
 
