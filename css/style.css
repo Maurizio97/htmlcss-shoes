@@ -40,7 +40,7 @@ body {
 }
 
 .item h1 {
-    font-size: 70px;
+    font-size: 45px;
     color: yellow;
     text-align: center;
 }
@@ -54,7 +54,6 @@ body {
     position: relative;
 }
 #product-3 .item h1 {
-    font-size: 70px;
     color: green;
     text-align: center;
 }
