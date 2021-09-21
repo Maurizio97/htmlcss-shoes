@@ -5,7 +5,7 @@
 }
 
 /* prodotto 1 */
-.product-1 {
+#product-1 {
     background-color: red;
     height: 100vh;
     position: relative;
@@ -14,7 +14,7 @@
 
 
 /* prodotto 2 */
-.product-2 {
+#product-2 {
     background-color: green;
     height: 100vh;
     position: relative;
@@ -43,12 +43,12 @@
 
 
 /* prodotto 3  */
-.product-3 {
+#product-3 {
     background-color: yellow;
     height: 100vh;
     position: relative;
 }
-.product-3 .item h1 {
+#product-3 .item h1 {
     font-size: 70px;
     color: green;
     text-align: center;
